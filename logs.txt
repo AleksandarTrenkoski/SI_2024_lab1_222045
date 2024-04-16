@@ -1,0 +1,66 @@
+commit 62812d06b338ff1c7af1d9a0c4a33179d4d2652a
+Merge: d3c3ffa ae69cec
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 16:25:42 2024 +0200
+
+    Resolved conflicts in SILab1Main.java
+
+commit d3c3ffa741332b1d97343a3b22d2d6c51e46f057
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:57:11 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0c5b69aa67f4373c077311c738e2818cf90be53c
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:53:21 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 46381f55f45c664bbb6fd3c5f46caad2226ba691
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:58:29 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ae69ceccd080158074fa27f099a4ee581a286809
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:57:11 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit db4aa5405eaf67164ae03e4a497c487533f6e178
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:55:22 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 66c4ed3743241941b44cf0a6eb5fff004a7c9a8b
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:53:21 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b1545c64ed1f234751d0098a8df12393183bbb15
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:50:07 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit a49f887a03fa0fc240b17cc1c8441bf9eec67a3a
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:42:46 2024 +0200
+
+    Add starter code
+
+commit a8d5dfa9d5d878b645f97209206065c3638dd019
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:29:14 2024 +0200
+
+    Initial commit
+
+commit 8e1d207c83d97edd5414bf3c22bc5010aee2084a
+Author: Aleksandar Trenkoski <164045332+AleksandarTrenkoski@users.noreply.github.com>
+Date:   Tue Apr 16 15:18:09 2024 +0200
+
+    Initial commit
